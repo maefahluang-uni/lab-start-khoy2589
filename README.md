@@ -82,7 +82,7 @@ Oh one last thing!
 Please introduce yourself by editing this file (README.md), put in your name/ nick name or how you want us to call you below between \`\`\` symbols (replace "Your name"). And commit and Push this project again. Please make sure your name is updated on Github as well.
 
 ```
-Your name
+Chanathip Khamchan
 ```
 :tada: Sweet! That's all for this lab. You are now ready to make a real deal in the next lab.
 

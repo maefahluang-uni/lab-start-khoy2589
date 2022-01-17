@@ -57,6 +57,9 @@ You can run unit test script to test if the program runs properly by right click
 
 The test should fail now because the program supposes to print outs "Hello James" but it prints out "Hi James", please follow the next step to fix this.
 
+
+
+
 ## Pushing project
 Let's fix the program in this project and push it back to the Github. Go to HelloWorld.java and change from 'Hi' to 'Hello'. Please see TODO comment. 
 
@@ -70,6 +73,9 @@ To commit and push the project, right click on project > Team > Commit. The Git 
 - Type in Commit message, such as "Fix hello method". Click "Commit and Push" button.
 All codes should now be pushed(uploaded) to Github. You may check this by going to Github repository and check HelloWorld.java in there.
 
+
+
+![fire](image/fire.png)
 
 Oh one last thing!
 ----------------
